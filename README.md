@@ -21,5 +21,6 @@ Working with functions
 How it looks 🎥 
 
 
-https://github.com/anurag87204/PASSWORD-GENERATOR/assets/84726281/6d7c8b86-1200-4b1c-a34d-423c0f370156
+https://github.com/anurag87204/PASSWORD-GENERATOR/assets/84726281/887bb172-da82-4bcf-b3b0-80cf989dfd6f
+
 
